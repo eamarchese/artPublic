@@ -112,7 +112,7 @@ Christian U. Andersen et Søren B. Pold, _The Metainterface. The Art of Platform
 <!-- .slide: data-background-image="img/worldEyes.png" -->
 ### Fabien Girardin, _The World's Eyes_
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<iframe src="https://www.dropbox.com/s/3fv9td1415ixrx0/world-eyes-1024x768.mov?dl=0"></iframe>
+<iframe src="https://archive.org/embed/world-eyes" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/map.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
